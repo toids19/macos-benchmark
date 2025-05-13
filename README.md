@@ -48,7 +48,6 @@ Built with a modern interface, this project integrates Java UI (FlatLaf), embedd
 - Java 11+
 - macOS (Intel/Apple Silicon)
 
-> 📝 Recommended: Use the included `.dmg` file (in [Releases](https://github.com/toids19/macos-benchmark/releases)) for quick access.
 
 ### Build from Source
 
